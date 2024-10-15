@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Animation.png">
+	
+	
+	<SubTexture name="Down0000" x="417" y="93" width="428" height="792" />
+	<SubTexture name="Idle0000" x="0" y="172" width="457" height="652" />
+	<SubTexture name="Left0000" x="853" y="164" width="428" height="792" />
+	<SubTexture name="Right0000" x="1741" y="41" width="428" height="792" />
+	<SubTexture name="Up0000" x="1297" y="30" width="428" height="792" />
+</TextureAtlas>

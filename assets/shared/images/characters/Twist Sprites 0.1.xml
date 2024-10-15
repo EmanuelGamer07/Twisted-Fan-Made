@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Twist Sprites 0.1.png">
+	
+	
+	<SubTexture name="Down0000" x="422" y="154" width="365" height="645" />
+	<SubTexture name="Idle0000" x="3" y="149" width="365" height="645" />
+	<SubTexture name="Left0000" x="908" y="172" width="365" height="645" />
+	<SubTexture name="Right0000" x="1759" y="157" width="365" height="645" />
+	<SubTexture name="Up0000" x="1345" y="162" width="365" height="645" />
+</TextureAtlas>
